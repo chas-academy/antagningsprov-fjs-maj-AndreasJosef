@@ -16,11 +16,11 @@ function uppg10() {
 
     // smallOdd ska innehålla tal mindre än 10 och udda
     else if (number < 10 && number % 2 !== 0) {
-      smallOdd.push(number)
+      smallOdd.push(number);
 
       // other ska innehålla alla andra tal
     } else {
-      other.push(number)
+      other.push(number);
 
     }
   });

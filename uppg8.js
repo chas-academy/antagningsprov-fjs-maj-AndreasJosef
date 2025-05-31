@@ -40,7 +40,7 @@ function uppg8() {
             }
         });
 
-    };
+    }
 
     // anropa funktionen och skicka med arrayen som argument
     logOverThirty(people);
