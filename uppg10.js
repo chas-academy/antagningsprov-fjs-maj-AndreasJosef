@@ -1,3 +1,4 @@
+
 function uppg10() {
   const numbers = [5, 12, 7, 10, 20, 9, 11];
 
